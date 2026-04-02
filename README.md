@@ -4,6 +4,9 @@ This project, built on NewCatroid-catrobat, allows you to write code in Lua, Jav
 # Now to use?
 Download the code and create an archive with any name, but with the extension .newtrobat or catrobat, and put the code in it, and import it into New Catroid (it is important to use New Catroid!).
 
+# Now to use (git)
+Use the Git integration feature in the project settings in New Catroid.
+
 # New catroid
 https://github.com/Danveyd/NewCatroid/releases
 
